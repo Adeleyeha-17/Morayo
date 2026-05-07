@@ -113,18 +113,23 @@ function Screen2({ onYes }) {
         <h2 style={styles.cardTitle}>Hey you, yes you,<br />Morayo 😊</h2>
 
         <p style={{ ...styles.bodyText, animationDelay: "0.15s" }}>
-          Okay so… I've been trying to find the perfect words and moments, and honestly? There are none. Because you're kind of beyond words.
+         Okay so… I keep trying to find the right words, but honestly, every sentence falls short the moment I look at you.
         </p>
 
         <div style={styles.bubble}>
           <p style={{ ...styles.bodyText, margin: 0, color: "#c06080" }}>
-            You make ordinary days feel like something worth remembering. And that's a really rare thing. 💕
+            Looking at you… just staring at your face somehow makes ordinary days feel like something worth remembering. 💕
           </p>
         </div>
 
         <p style={{ ...styles.bodyText, ...styles.bigQuote }}>
-          "I LOVE you. A lot. More than I know how to say — so I made this little website instead. Remember when I said I'd do my own things my own way?... This is my way" 😄
+          "I LOVE you. A lot. More than I know how to say — so I made this little website instead. 
         </p>
+
+<p style={{ ...styles.bodyText, ...styles.bigQuote }}>
+           Remember when I said I'd do my own things my own way?... This is my way... It is a little bit strange but I love strange, not Doctor Strange though" 😄 
+        </p>
+       
 
         <p style={{ ...styles.bodyText, marginBottom: 8 }}>
           So here I am, asking you the most important question:
