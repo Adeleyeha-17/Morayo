@@ -200,7 +200,7 @@ function Screen3() {
           She said YES!!! 🥳
         </h2>
         <p style={{ ...styles.bodyText, marginBottom: 10 }}>
-          Okay wait — my heart just did a little happy dance. 💃
+          Okay wait — my heart just did a little happy dance.  💃
         </p>
         <p style={{ ...styles.bodyText, marginBottom: 10 }}>
           You just made me the happiest person right now. Like genuinely. 🌸
