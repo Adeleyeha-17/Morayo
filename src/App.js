@@ -200,13 +200,15 @@ function Screen3() {
           She said YES!!! 🥳
         </h2>
         <p style={{ ...styles.bodyText, marginBottom: 10 }}>
-          Okay wait — my heart just did a little happy dance.  💃
+          Well… that definitely just made my whole day better 💃💕... I'm dying of heat here at Lekki
+
         </p>
         <p style={{ ...styles.bodyText, marginBottom: 10 }}>
           You just made me the happiest person right now. Like genuinely. 🌸
         </p>
         <p style={styles.bodyText}>
-          This is us now. We get to complain about everything together. 💑
+          This is us now. Whatever comes, we face it together — the good days, the stressful ones, the overthinking, the complaints… all of it. 💑
+ 💑
         </p>
         <div style={{ display: "inline-block", background: "#fff0f4", border: "1.5px solid #ffd6e0", borderRadius: 50, padding: "10px 28px", fontSize: 13, fontWeight: 800, color: "#e8527a", marginTop: 32, animation: "popBadge 0.6s 0.4s cubic-bezier(.17,.67,.3,1.3) both", opacity: 0 }}>
           💖 Official Girlfriend Status: Unlocked 💖
